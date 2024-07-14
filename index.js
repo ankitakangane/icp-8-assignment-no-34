@@ -29,7 +29,7 @@ const name = [
     "Ankita",
     "Sachin",
     "Yash",
-    "Nikita",
+    "Nikhil",
     "Sejal",
     "Pooja"
 ]
