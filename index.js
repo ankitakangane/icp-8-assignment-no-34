@@ -34,8 +34,8 @@ const name = [
     "Pooja"
 ]
 
-for(let i = 0;i<name.length;i++){
-    console.log(`Hello ${name[i]}`)
+for(let stud of name){
+    console.log(`Hello ${stud}`)
 }
 
 
