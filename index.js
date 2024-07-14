@@ -1,5 +1,5 @@
 //largest number
-/*let result = [99 , 56 , 70 , 95 ];
+let result = [99 , 56 , 70 , 95 ];
 
 let largest = result[0];
 
@@ -8,7 +8,7 @@ for(const num of result){
         largest=num;
     }
 }
-console.log(`Largest Result:${largest}`);*/
+console.log(`Largest Result:${largest}`);
 
 //sum of odd number
 let numbers = [99 , 56 , 70 , 95 ];
@@ -23,7 +23,20 @@ for(let i=0;i<numbers.length;i++){
 }
 console.log(`SUM:${sum}`)
 
+//say hello to all element
 
+const name = [
+    "Ankita",
+    "Sachin",
+    "Yash",
+    "Nikita",
+    "Sejal",
+    "Pooja"
+]
+
+for(let i = 0;i<name.length;i++){
+    console.log(`Hello ${name[i]}`)
+}
 
 
 
